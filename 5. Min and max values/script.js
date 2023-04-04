@@ -5,4 +5,4 @@ function maxMin(arrNum) {
 }
 
 const arrNum = [1, 5, 3, 6, 4, 9, 8, 7]
-console.log(maxMin(arrNum));
+console.log(maxMin(arrNum))
