@@ -13,4 +13,4 @@ const person = {
     }
 }
 
-console.log(nameAndStreet(person));
+console.log(nameAndStreet(person))
